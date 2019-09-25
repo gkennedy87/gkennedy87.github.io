@@ -1,6 +1,6 @@
 Portfolio Site of Grant Kennedy
 
-Built using HTML5, CSS3, Javascript and JQuery.
+Built using HTML5, CSS3, Javascript and Bootstrap framework.
 
 Website: https://gkennedy87.github.io
 
